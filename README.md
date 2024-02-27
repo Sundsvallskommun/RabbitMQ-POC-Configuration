@@ -15,3 +15,14 @@ services:
       - 5672:5672
       - 15672:15672
     restart: always
+```
+
+Some good to know abbreviations: 
+
+DLQ - Dead Letter Queue
+
+DLX - Dead Letter Exchange
+
+
+
+
